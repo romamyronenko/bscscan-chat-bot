@@ -1,12 +1,6 @@
 ### How to run
-1. set environment variable `BOT_TOKEN` with telegram bot token
-
-`export BOT_TOKEN=<your token>`
-
-2. run `main.py`
-
-`python3 main.py`
-
+1. set environment variable `BOT_TOKEN` with telegram bot token: `export BOT_TOKEN=<your token>`
+2. run `main.py`: `python3 main.py`
 
 ### How to use
 1. send `/start`
